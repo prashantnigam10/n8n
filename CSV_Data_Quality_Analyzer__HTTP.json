@@ -6,7 +6,7 @@
       "type": "n8n-nodes-base.manualTrigger",
       "typeVersion": 1,
       "position": [
-        -460,
+        -460, 
         -20
       ],
       "id": "440be824-668a-4901-a1c1-ee14b7f18994",
